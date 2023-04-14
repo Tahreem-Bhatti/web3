@@ -1,0 +1,31 @@
+h1 {
+	text-align: center;
+}
+
+h2 { 
+	text-align: center;
+}
+
+h3 { 
+	text-align: center;
+}
+
+h4 { 
+	text-align: center;
+}
+
+h5 {
+	text-align: center;
+}
+
+<p style="text-align:center">center this text!</p>
+
+tabe, th, td {	
+border: 1px solid black;
+border-collapse: collapse;
+}
+
+table.center {	
+margin-left: auto;
+margin-right: auto;
+}
